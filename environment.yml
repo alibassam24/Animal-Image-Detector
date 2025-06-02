@@ -1,0 +1,39 @@
+name: animal9
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pytorch=2.5.1
+  - torchvision=0.20.1
+  - torchaudio=2.5.1
+  - numpy
+  - matplotlib
+  - opencv
+  - pillow
+  - requests
+  - typing_extensions
+  - setuptools
+  - pip
+  - wheel
+  - scipy
+  - sympy
+  - jinja2
+  - pyyaml
+  - packaging
+  - networkx
+  - tzdata
+  - lz4-c
+  - sqlite
+  - zlib
+  - xz
+  - yaml
+  - zstd
+  - freetype
+  - cairo
+  - libpng
+  - pyqt
+  - scikit-learn
+  - pandas
+  - scikit-image
